@@ -5,4 +5,4 @@ homogène trié à taille variable. Ce contenant va utiliser des chainages pour 
 Afin d’accélérer la recherche dans le contenant, nous allons inclure un index qui permet de retrouver les
 éléments plus rapidement. Cette structure va avoir des méthodes (services) pour insérer, supprimer et
 consulter les éléments. Les techniques utilisées pour l’index vont nous permettre d’obtenir des temps
-𝑂𝑂(√𝑛𝑛), ce qui est meilleur que 𝑂𝑂(𝑛𝑛) mais moins performant que 𝑂𝑂(log 𝑛𝑛).
+ 𝑂(√𝑛𝑛), ce qui est meilleur que 𝑂(𝑛𝑛) mais moins performant que 𝑂(log 𝑛𝑛).
